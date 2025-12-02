@@ -1,0 +1,41 @@
+[
+  {
+    "id": "plan_small_weekly",
+    "name": "Small Box (Weekly)",
+    "price": 599,
+    "freq": "weekly",
+    "items": [
+      "tomato",
+      "potato",
+      "leafy",
+      "Little Bit Stone"
+    ]
+  },
+  {
+    "id": "plan_medium_weekly",
+    "name": "Medium Box (Weekly)",
+    "price": 899,
+    "freq": "weekly",
+    "items": [
+      "tomato",
+      "potato",
+      "veg",
+      "leafy",
+      "Little More Stone"
+    ]
+  },
+  {
+    "id": "plan_large_weekly",
+    "name": "Large Box (Weekly)",
+    "price": 1299,
+    "freq": "weekly",
+    "items": [
+      "tomato",
+      "potato",
+      "veg",
+      "leafy",
+      "fruit",
+      "Only Eat Stone "
+    ]
+  }
+]

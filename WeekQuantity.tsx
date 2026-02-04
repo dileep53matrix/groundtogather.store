@@ -8,6 +8,9 @@ export default function WeekQuantity({ onChange }: { onChange: (q: any) => void 
         days.forEach(d => s[d] = 0)
         return s
     })
+
+
+
     
 
     function inc(d: string) {
@@ -39,4 +42,5 @@ export default function WeekQuantity({ onChange }: { onChange: (q: any) => void 
         </div>
     )
 }
+
 

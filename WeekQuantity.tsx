@@ -10,7 +10,6 @@ export default function WeekQuantity({ onChange }: { onChange: (q: any) => void 
     })
 
 
-
     
 
     function inc(d: string) {
@@ -42,5 +41,6 @@ export default function WeekQuantity({ onChange }: { onChange: (q: any) => void 
         </div>
     )
 }
+
 
 

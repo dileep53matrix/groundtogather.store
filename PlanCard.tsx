@@ -18,3 +18,4 @@ export default function PlanCard({ plan, selected, onSelect }) {
     </motion.div>
   )
 }
+

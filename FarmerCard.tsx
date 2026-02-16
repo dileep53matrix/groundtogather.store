@@ -9,3 +9,4 @@ export default function FarmerCard({f}:{f:any}) {
     </div>
   )
 }
+

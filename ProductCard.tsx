@@ -12,4 +12,3 @@ export default function ProductCard({p}:{p:any}) {
     </div>
   )
 }
-
